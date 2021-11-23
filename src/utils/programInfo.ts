@@ -26,7 +26,7 @@ export const Main = async () => {
 
   // transaction hash to confirm transaction
   const hash = await solanaWeb3.sendAndConfirmTransaction(connection, transaction, [signer]);
-
+  console.log(hash);
   return hash
 }
 
