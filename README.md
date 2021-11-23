@@ -32,7 +32,7 @@ How it works
 Login View
 
 
-<img src="https://i.imgur.com/hNHqzqg.png" alt="drawing" width="200"/>
+<img src="https://i.imgur.com/jMOUL2X.png" alt="drawing" width="200"/>
 
 <br>
 <br>
